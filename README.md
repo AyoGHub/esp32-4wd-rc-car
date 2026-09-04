@@ -1,6 +1,6 @@
 # ESP32 Bluetooth 4WD RC Car
 
-A Bluetooth-controlled RC car controlled by the ESP32 Board
+A Bluetooth-controlled RC car implementing the ESP32 Board
 
 ## Features
 
