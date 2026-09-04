@@ -36,12 +36,14 @@ A Bluetooth-controlled RC car controlled by the ESP32 Board
 - The L3/R3 thumbstick buttons toggle off the current song
 - The "Up"/"Down" analogue joystick inputs control the steering
 
-## Code
+## Code (Arduino IDE)
 
-- "car.ino" is the program running on the ESP32, available in 
-- The program reads wireless Joy-Con inputs and maps them to motor-driver, headlight, and buzzer commands
+- "car.ino" is the program running on the ESP32, available in [`car.ino`](car.ino)
+- The program reads wireless Joy-Con inputs and maps them to the motor-driver, headlight, and buzzer commands
 - It uses ESP32 GPIO outputs to control the L293D, RGB LED, buzzer, and motors
 
+## Libraries
+- Bluepad32 — used to connect the ESP32 to the Nintendo Joy-Con and read wireless controller inputs
 
 
 
