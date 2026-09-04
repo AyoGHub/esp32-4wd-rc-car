@@ -38,7 +38,7 @@ A Bluetooth-controlled RC car implementing the ESP32 Board
 
 ## Code (Arduino IDE)
 
-- "car.ino" is the program running on the ESP32, available in [`car.ino`](car.ino)
+- "car.ino" is the C++ program running on the ESP32, available in [`car.ino`](car.ino)
 - The program reads wireless Joy-Con inputs and maps them to the motor-driver, headlight, and buzzer commands
 - It uses ESP32 GPIO outputs to control the L293D, RGB LED, buzzer, and motors
 
