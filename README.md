@@ -48,7 +48,10 @@ A Bluetooth-controlled RC car implementing the ESP32 Board
 
 ## Photos/Demo
 
+- All photos are in this repository
 
+A demo is available to watch using the link below:
+https://www.youtube.com/shorts/cHxcpBt_5fo
 
 ## Experience Gained
 
