@@ -16,7 +16,7 @@ A Bluetooth-controlled RC car controlled by the ESP32 Board
 - ESP32
 - Nintendo Joy-Con
 - L293D motor-driver IC
-- Four DC motors
+- 4 DC motors
 - RGB LED
 - Passive buzzer
 - Breadboard
