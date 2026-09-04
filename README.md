@@ -4,7 +4,7 @@ A Bluetooth-controlled RC car controlled by the ESP32 Board
 
 ## Features
 
-- Bidirectional drive control for 3 DC motors, steering control for a 4th motor
+- Bidirectional drive control for 3 DC motors; steering control for a 4th motor
 - L293D H-bridge IC for motor control
 - Toggleable rainbow RGB headlight
 - Musical buzzer with three programmed songs; a button cycles between the melodies
