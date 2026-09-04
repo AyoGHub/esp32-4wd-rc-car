@@ -24,7 +24,7 @@ A Bluetooth-controlled RC car controlled by the ESP32 Board
   
 ## Wiring and Power
 
-- The ESP32 is safely powered via a USB-C cable from a smart device (stable 5 V), while the high-voltage motor system is powered externally using a 9 V battery. The ESP32 handles the Joy-Con's inputs and sends signals to the L293D via jumper wires
+- The ESP32 is safely powered via a USB-C cable from a smart device (stable 5 V), while the high-voltage motor system is powered externally using a 9 V battery. The ESP32 handles the Joy-Con's inputs and sends signals to the L293D via jumper wires (see [`20260904_140321.jpg`](20260904_140321.jpg))
 - The L293D controls 3 driving DC motors on one side and a steering DC motor on the other
 - The LED and buzzer are connected to ESP32 GPIO pins via a breadboard and jumper wires
 
