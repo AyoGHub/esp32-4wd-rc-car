@@ -21,7 +21,7 @@ A Bluetooth-controlled RC car implementing the ESP32 Board
 - Passive buzzer
 - Breadboard
 - Jumper wires
-- 4 wheels and chassis
+- 4 wheels and a chassis
   
 ## System Design, Wiring and Power
 
