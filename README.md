@@ -46,7 +46,7 @@ A Bluetooth-controlled RC car implementing the ESP32 Board
 - The program reads wireless Joy-Con inputs and maps them to the motor-driver, headlight, and buzzer commands
 - It uses ESP32 GPIO outputs to control the L293D, RGB LED, buzzer, and motors
 - AI tools assisted with code generation and troubleshooting; I assembled, integrated, tested, and verified the hardware system.
-- 
+
 ## Libraries
 
 - Bluepad32 — used to connect the ESP32 to the Nintendo Joy-Con and read wireless controller inputs
