@@ -34,7 +34,7 @@ A Bluetooth-controlled RC car implementing the ESP32 Board
 
 ## Controls (For both L/R Joy-Cons)
 
-- Held horizontally, Nintendo Joy-Con SL and SR buttons map to forward and reverse drive, respectively
+- Held horizontally, Nintendo Joy-Con SL and SR buttons map to reverse and forward drive, respectively
 - The L or ZL/R or ZR buttons toggle the LED on/off
 - The Y/"Up" buttons (when held on its side, north-facing) select the track
 - The L3/R3 thumbstick buttons toggle off the current song
